@@ -1,1 +1,2 @@
 # AI-project-Intelligent-vehicle-parking-system
+In this project we have discussed the methods that can be adopted for intelligent parking system . These systems can counter the parking problems that arise due to the unavailability of a reliable, efficient and modern Parking system. Such parking system can reduce the parking related issues. Such system can help the economic, social and safety based aspects of the society. It also helps in preserving the environment, fuel and time.  
